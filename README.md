@@ -1,1 +1,1 @@
-run homw.py
+run homeS.py
